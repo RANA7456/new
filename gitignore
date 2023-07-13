@@ -1,0 +1,4 @@
+/work
+db.sqlite3
+__pycache
+migrations
